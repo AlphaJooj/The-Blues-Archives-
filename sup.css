@@ -1,7 +1,12 @@
 .header{
     background-color: cornflowerblue;
+    padding: 1%;
 }
 
 .tittle-page{
     color: whitesmoke;
+}
+
+.jooj{
+    text-align: left;
 }
