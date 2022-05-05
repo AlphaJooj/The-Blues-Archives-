@@ -3,10 +3,19 @@
     padding: 1%;
 }
 
+a:link {
+    color: white;
+  }
+
 .tittle-page{
     color: whitesmoke;
 }
 
 .presentation{
-    background-color: ivory;
+    background-color: #60adfa;
+}
+
+.sum-pt1{
+    width: 200px;
+    height: 200px;
 }
