@@ -12,15 +12,15 @@ a:link {
 }
 
 .presentation{
-    background-color: #60adfa;
+    background-color: #7db6ee;
+}
+
+.summary-text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
 }
 
 .sum-pt1{
     width: 265px;
     height: 350px;
-}
-
-.sum-pt2{
-    width: 265px;
-    height: 340px;
 }
