@@ -21,6 +21,14 @@ a:link {
 }
 
 .sum-pt1{
-    width: 265px;
-    height: 350px;
+    width: auto;
+    height: auto;
+}
+
+.performers{
+    background-color: #c5bfbf;
+}
+
+.ex-title{
+    text-align: center;
 }
