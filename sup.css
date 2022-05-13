@@ -40,8 +40,6 @@ a:link {
 
 ul.img-list {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     text-align: center;
   }
   
@@ -56,7 +54,7 @@ ul.img-list {
   span.text-content span {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
+    vertical-align: top;
   }
 
   ul.img-list li:hover span.text-content {
@@ -78,4 +76,4 @@ ul.img-list {
     -moz-transition: opacity 500ms;
     -o-transition: opacity 500ms;
     transition: opacity 500ms;
-  }
+  } 
